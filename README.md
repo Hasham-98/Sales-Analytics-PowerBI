@@ -22,12 +22,12 @@ regional sales analysis, and visual trends to support data-driven decisions.
 - 📍 **Region & category-wise performance analysis**
 - 🔍 **Product Dashboard**
 
-   . Total Due: $123.22M
-   . Total Tax: $10.19M
-   . Subtotal: $109.85M
-   . Number of Order Details: 121.32K
-   . Number of Orders: 31.47K
-   . Total Products: 504
+   - Total Due: $123.22M
+   - Total Tax: $10.19M
+   - Subtotal: $109.85M
+   - Number of Order Details: 121.32K
+   - Number of Orders: 31.47K
+   - Total Products: 504
  
 ## 🎛️ Filters Used
 This dashboard includes interactive filters to refine analysis based on user selection:
@@ -43,4 +43,4 @@ This dashboard includes interactive filters to refine analysis based on user sel
 ![sales-dashboard](https://github.com/user-attachments/assets/18c8e824-f383-4bbf-971e-cd5b92a2ce8a)
 
 ## 📩 Contact  
-reach out via GitHub issues or [heshamkaram98@gmail.com/ https://www.linkedin.com/in/hesham-karam-755b6426b/].
+for more information reach out via GitHub issues or [heshamkaram98@gmail.com/ https://www.linkedin.com/in/hesham-karam-755b6426b/].
